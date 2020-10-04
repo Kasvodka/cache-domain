@@ -7,6 +7,7 @@
 		"riot":		"192.168.88.60",
 		"generic":	"192.168.88.60"
 		"gameloop":	"192.168.88.60"
+		
 	},
 	"cache_domains": {
 		"default": 	"generic",
@@ -17,5 +18,6 @@
 		"wsus": 	"windows",
 		"xboxlive": 	"windows"
 		"gameloop": 	"gameloop"
+		
 	}
 }
