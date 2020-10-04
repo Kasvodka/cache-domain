@@ -1,11 +1,12 @@
 {
 	"ips": {
-		"steam":	["10.10.3.10", "10.10.3.11"],
-		"origin":	"10.10.3.12",
-		"blizzard":	"10.10.3.13",
-		"windows":	"10.10.3.14",
-		"riot":		"10.10.3.15",
-		"generic":	"10.10.3.16"
+		"steam":	["192.168.88.60"],
+		"origin":	"192.168.88.60",
+		"blizzard":	"192.168.88.60",
+		"windows":	"192.168.88.60",
+		"riot":		"192.168.88.60",
+		"generic":	"192.168.88.60"
+		"gameloop":	"192.168.88.60"
 	},
 	"cache_domains": {
 		"default": 	"generic",
@@ -15,5 +16,6 @@
 		"steam": 	"steam",
 		"wsus": 	"windows",
 		"xboxlive": 	"windows"
+		"gameloop": 	"gameloop"
 	}
 }
