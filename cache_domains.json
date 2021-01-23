@@ -11,7 +11,7 @@
 			"domain_files": ["youtube.txt"]
 		},
 		{
-			"name": "arenanet",
+			"name": "gameloop",
 			"description": "CDN for guild wars, HoT",
 			"domain_files": ["gameloop.txt"]
 		},
