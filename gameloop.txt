@@ -1,5 +1,5 @@
-*dldir1.qq.com
-*pm.myapp.com
-*syzs.qq.com
-*sy.guanjia.qq.com
-*s.gameloop.fun
+dldir1.qq.com
+pm.myapp.com
+syzs.qq.com
+sy.guanjia.qq.com
+s.gameloop.fun
