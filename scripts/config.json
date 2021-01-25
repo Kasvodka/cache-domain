@@ -5,14 +5,12 @@
 		"blizzard":	"192.168.88.60",
 		"windows":	"192.168.88.60",
 		"gameloop":	"192.168.88.60",
-		"riot":		"192.168.88.60",
 		"generic":	"192.168.88.60"
 	},
 	"cache_domains": {
 		"default": 	"generic",
 		"blizzard": 	"blizzard",
 		"origin": 	"origin",
-		"riot": 	"riot",
 		"steam": 	"steam",
 		"gameloop": 	"gameloop",
 		"wsus": 	"windows",
