@@ -1,5 +1,5 @@
-l3cdn.riotgames.com
-worldwide.l3cdn.riotgames.com
-riotgamespatcher-a.akamaihd.net
-riotgamespatcher-a.akamaihd.net.edgesuite.net
-*.dyn.riotcdn.net
+dldir1.qq.com
+pm.myapp.com
+syzs.qq.com
+sy.guanjia.qq.com
+s.gameloop.fun
