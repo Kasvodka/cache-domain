@@ -88,4 +88,14 @@ pubg.qq.com
 vm.gtimg.cn
 tajs.qq.com
 *.gtimg.cn
-
+ns-135.awsdns-16.com
+ns-1209.awsdns-23.org
+a1845.dscb.akamai.net
+ns-open2.qq.com
+ns-766.awsdns-31.net
+3gdl.tcdn.qq.com
+security.sparta.mig.tencent-cloud.net
+pm.myapp.tc.qq.com
+*.google.com
+*.tencent-cloud.net
+*.awsdns-31.net
