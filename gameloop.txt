@@ -58,3 +58,9 @@ cfl.dropboxstatic.com
 dropbox.com
 *.googlevideo.com
 googlevideo.com
+masterconn.qq.com
+ocsp.digicert.com
+ocsp.oki.goog
+*.digicert.com
+*.oki.goog
+
