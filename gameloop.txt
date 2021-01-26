@@ -3,3 +3,12 @@ pm.myapp.com
 syzs.qq.com
 sy.guanjia.qq.com
 s.gameloop.fun
+guanjia.qq.com
+*.qq.com
+*.myapp.com
+crl3.digicert.com
+*.digicert.com
+csc3-2009-2-crl.verisign.com
+crl3.digicert.com
+crl4.digicert.com
+*.verisign.com
