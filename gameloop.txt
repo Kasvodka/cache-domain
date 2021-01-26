@@ -82,5 +82,10 @@ riot-client.dyn.riotcdn.net
 prod02.kaxsdc.com
 down.safe.wegames.com.hk
 *.wegames.com.hk
-185.254.116.117
-8.8.8.8
+game.gtimg.cn
+ossweb-img.qq.com
+pubg.qq.com
+vm.gtimg.cn
+tajs.qq.com
+*.gtimg.cn
+
