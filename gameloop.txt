@@ -77,3 +77,4 @@ down.anticheatexpert.com
 s.pc.qq.com
 *.anticheatexpert.com
 *.proximabeta.com
+riot-client.dyn.riotcdn.net
