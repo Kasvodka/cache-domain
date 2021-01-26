@@ -34,6 +34,17 @@ pubgmobile.com
 crl.apple.com
 *.entrust.net
 *.digicert.com
+213.204.103.19
+213.204.103.16
+119.28.123.159
+162.62.116.118
+162.62.69.144
+162.62.69.24
+qcloud.com
+astat.bugly.qcloud.com
+bugly.qcloud.com
+*.qcloud.com
+
 ocsp.apple.com
 *.verisign.net
 *.xs4all.nl
