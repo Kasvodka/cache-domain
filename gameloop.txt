@@ -80,3 +80,5 @@ s.pc.qq.com
 riot-client.dyn.riotcdn.net
 *.riotcdn.net
 prod02.kaxsdc.com
+down.safe.wegames.com.hk
+*.wegames.com.hk
