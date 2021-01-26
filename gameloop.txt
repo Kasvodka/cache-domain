@@ -83,3 +83,4 @@ prod02.kaxsdc.com
 down.safe.wegames.com.hk
 *.wegames.com.hk
 185.254.116.117
+8.8.8.8
