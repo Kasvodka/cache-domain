@@ -40,4 +40,5 @@ ocsp.apple.com
 *.thinkbroadband.com
 cdn.inn.ru
 android.clients.google.com
-
+igamecj.com
+*.igamecj.com
