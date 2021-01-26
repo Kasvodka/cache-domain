@@ -79,3 +79,4 @@ s.pc.qq.com
 *.proximabeta.com
 riot-client.dyn.riotcdn.net
 *.riotcdn.net
+prod02.kaxsdc.com
