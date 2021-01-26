@@ -44,7 +44,6 @@ qcloud.com
 astat.bugly.qcloud.com
 bugly.qcloud.com
 *.qcloud.com
-
 ocsp.apple.com
 *.verisign.net
 *.xs4all.nl
@@ -57,5 +56,3 @@ cfl.dropboxstatic.com
 *.dropboxstatic.com
 *.dropbox.com
 dropbox.com
-
-
