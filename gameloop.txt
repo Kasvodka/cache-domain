@@ -34,6 +34,14 @@ pubgmobile.com
 crl.apple.com
 *.entrust.net
 *.digicert.com
+assets.nflxext.com
+codex.nflxext.com
+netflix.com
+cdn.cookielaw.org
+*.nflxext.com
+*.cookielaw.org
+*.netflix.com
+
 ocsp.apple.com
 *.verisign.net
 *.xs4all.nl
