@@ -56,3 +56,5 @@ cfl.dropboxstatic.com
 *.dropboxstatic.com
 *.dropbox.com
 dropbox.com
+*.googlevideo.com
+googlevideo.com
