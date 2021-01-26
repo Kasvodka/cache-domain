@@ -42,3 +42,9 @@ cdn.inn.ru
 android.clients.google.com
 igamecj.com
 *.igamecj.com
+cfl.dropboxstatic.com
+*.dropboxstatic.com
+*.dropbox.com
+dropbox.com
+
+
