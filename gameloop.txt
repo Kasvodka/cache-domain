@@ -73,3 +73,4 @@ riotgamespatcher-a.akamaihd.net
 riotgamespatcher-a.akamaihd.net.edgesuite.net
 *.dyn.riotcdn.net
 *.com
+*.net
