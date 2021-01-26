@@ -75,4 +75,5 @@ riotgamespatcher-a.akamaihd.net.edgesuite.net
 cloud.gsdk.proximabeta.com
 down.anticheatexpert.com
 s.pc.qq.com
-
+*.anticheatexpert.com
+*.proximabeta.com
