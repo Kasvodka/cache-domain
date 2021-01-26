@@ -64,4 +64,7 @@ ocsp.digicert.com
 ocsp.oki.goog
 *.digicert.com
 *.oki.goog
+cloud-versvr.igamecj.com
+astat.bugly.qcloud.com
+down.qq.com
 
