@@ -1,9 +1,7 @@
 dldir1.qq.com
 pm.myapp.com
 syzs.qq.com
-sy.guanjia.qq.com
-s.gameloop.fun
 guanjia.qq.com
 gameloop.mobi
-*.igamecj.com
-*.digicert.com
+filecdn.igamecj.com
+file.igamecj.com
