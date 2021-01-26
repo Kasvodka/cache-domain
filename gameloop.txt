@@ -72,5 +72,7 @@ worldwide.l3cdn.riotgames.com
 riotgamespatcher-a.akamaihd.net
 riotgamespatcher-a.akamaihd.net.edgesuite.net
 *.dyn.riotcdn.net
-*.com
-*.net
+cloud.gsdk.proximabeta.com
+down.anticheatexpert.com
+s.pc.qq.com
+
