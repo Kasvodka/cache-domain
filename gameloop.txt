@@ -18,6 +18,4 @@ dl.castle.freefiremobile.com.akamaized.net
 a1974.dscd.akamai.net
 *.akamai.net
 *.edgesuite.net
-west-tdm.codmwest.com
-en.gcloud.codmwest.com
-eu.gcloud.codmwest.com
+*.codmwest.com
