@@ -9,11 +9,6 @@ s2.symcb.com
 sv.symcb.com
 *.symcb.com
 qbwup.imtt.qq.com
-west-tdm.codmwest.com
-gtm-base.west-gcloud.codm.activision.com.akadns.net
-app.sparta.mig.tencent-cloud.net
-weixin.f1weixin.download.ettdnsv.com
-weixin.cdn.ettdnsv.com
 a1038.d.akamai.net
 freefiremobile-a.akamaihd.net.edgesuite.net
 a1038.d.akamai.net
