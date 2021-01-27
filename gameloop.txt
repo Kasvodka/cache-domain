@@ -20,3 +20,6 @@ weixin.f1weixin.download.ettdnsv.com
 weixin.cdn.ettdnsv.com
 a1038.d.akamai.net
 freefiremobile-a.akamaihd.net.edgesuite.net
+a1038.d.akamai.net
+a1974.dscd.akamai.net
+dl.castle.freefiremobile.com.akamaized.net
