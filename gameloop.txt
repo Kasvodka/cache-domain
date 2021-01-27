@@ -5,3 +5,8 @@ guanjia.qq.com
 gameloop.mobi
 filecdn.igamecj.com
 file.igamecj.com
+s2.symcb.com
+sv.symcb.com
+*.symcb.com
+qbwup.imtt.qq.com
+
