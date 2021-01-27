@@ -9,7 +9,6 @@ s2.symcb.com
 sv.symcb.com
 *.symcb.com
 qbwup.imtt.qq.com
-*.yahoodns.net
 west-tdm.codmwest.com
 en.gcloud.codmwest.com
 eu.gcloud.codmwest.com
@@ -17,10 +16,7 @@ gtm-base.west-gcloud.codm.activision.com.akadns.net
 cs1872.wpc.etacdn.net
 75726.cdn.ovscdns.com
 app.sparta.mig.tencent-cloud.net
-inapps.appsflyer.com
 weixin.f1weixin.download.ettdnsv.com
 weixin.cdn.ettdnsv.com
 a1038.d.akamai.net
 freefiremobile-a.akamaihd.net.edgesuite.net
-datarouter-weighted.ol.epicgames.com
-datarouter.ol.epicgames.com
