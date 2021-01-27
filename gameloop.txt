@@ -18,7 +18,3 @@ dl.castle.freefiremobile.com.akamaized.net
 a1974.dscd.akamai.net
 *.akamai.net
 *.edgesuite.net
-weixin.f1weixin.download.ettdnsv.com
-weixin.cdn.ettdnsv.com
-cs1872.wpc.etacdn.net
-75726.cdn.ovscdns.com
