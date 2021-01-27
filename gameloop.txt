@@ -19,5 +19,4 @@ a1974.dscd.akamai.net
 *.akamai.net
 *.edgesuite.net
 west-tdm.codmwest.com
-en.gcloud.codmwest.com
-eu.gcloud.codmwest.com
+gtm-base.west-gcloud.codm.activision.com.akadns.net
