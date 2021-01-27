@@ -18,3 +18,5 @@ dl.castle.freefiremobile.com.akamaized.net
 a1974.dscd.akamai.net
 *.akamai.net
 *.edgesuite.net
+gtm-base.west-gcloud.codm.activision.com.akadns.net
+
