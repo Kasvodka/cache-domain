@@ -18,7 +18,6 @@ dl.castle.freefiremobile.com.akamaized.net
 a1974.dscd.akamai.net
 *.akamai.net
 *.edgesuite.net
-gtm-base.west-gcloud.codm.activision.com.akadns.net
 app.sparta.mig.tencent-cloud.net
 weixin.f1weixin.download.ettdnsv.com
 weixin.cdn.ettdnsv.com
