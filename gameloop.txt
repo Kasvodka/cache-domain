@@ -21,7 +21,6 @@ a1974.dscd.akamai.net
 app.sparta.mig.tencent-cloud.net
 weixin.f1weixin.download.ettdnsv.com
 weixin.cdn.ettdnsv.com
-eu.gcloud.codmwest.com
 cs1872.wpc.etacdn.net
 75726.cdn.ovscdns.com
 app.sparta.mig.tencent-cloud.net
