@@ -2,3 +2,11 @@ d3rmjivj4k4f0t.cloudfront.net
 addons.forgesvc.net
 media.forgecdn.net
 files.forgecdn.net
+l3cdn.riotgames.com
+worldwide.l3cdn.riotgames.com
+riotgamespatcher-a.akamaihd.net
+riotgamespatcher-a.akamaihd.net.edgesuite.net
+*.dyn.riotcdn.net
+s2.symcb.com
+sv.symcb.com
+*.symcb.com
