@@ -1,6 +1,7 @@
 # WARNING:  Origin has been seen downloading https client downloads on origin-a.akamaihd.net.  A solution should be in place to forward https to the origin server (eg sniproxy)
 origin-a.akamaihd.net
 lvlt.cdn.ea.com
+valorant.secure.dyn.riotcdn.net
 *.origin.com
 hearbeat.dm.origin.com
 d3rmjivj4k4f0t.cloudfront.net
@@ -17,4 +18,3 @@ prod-lb-403698696.us-west-2.elb.amazonaws.com
 ekg.riotgames.com
 europe.api.riotgames.com
 asia.api.riotgames.com
-valorant.secure.dyn.riotcdn.net
