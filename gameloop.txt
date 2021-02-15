@@ -18,3 +18,8 @@ dl.castle.freefiremobile.com.akamaized.net
 a1974.dscd.akamai.net
 *.akamai.net
 *.edgesuite.net
+*.fivem.net
+*.googlevideo.com
+*.ytimg.com
+*.discordapp.net
+*.youtube.com
